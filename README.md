@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Hemani et al., "The MR-Base platform supports systematic causal inference across the human phenome". eLife, 2018. http://dx.doi.org/10.7554/eLife.34408
+
 # LDL analysis for MR Base methods paper
 
 
